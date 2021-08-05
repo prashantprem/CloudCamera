@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082924406603",
+    "project_id": "cloudcamera-88a2c",
+    "storage_bucket": "cloudcamera-88a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082924406603:android:30d75f33f72ec7818cbace",
+        "android_client_info": {
+          "package_name": "com.example.cloudcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082924406603-fj5uuq2pi107ghtl3qnl77ia5trb2oa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloudcamera",
+            "certificate_hash": "f634a147399629209542efe214a9bfa7964a2713"
+          }
+        },
+        {
+          "client_id": "1082924406603-4q8j86nb378bct5r5oijrl62r5v7c3uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0H6_BgMfWgIc3PKvnYuE8tTH4YQEsHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082924406603-4q8j86nb378bct5r5oijrl62r5v7c3uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
